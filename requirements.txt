@@ -1,0 +1,11 @@
+tensorflow==2.19.0
+streamlit
+numpy
+opencv-python
+pillow
+plotly
+reportlab
+pandas
+matplotlib
+seaborn
+huggingface_hub
